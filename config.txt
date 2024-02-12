@@ -1,0 +1,7 @@
+freq
+octave Sa to Saa
+Play_song
+random notes
+convolution(file, freq)
+mixing(file,freq)
+instruments(piano, flute)
